@@ -1,0 +1,18 @@
+#Peer-graded Assignment: Exploratory Course Project 1
+
+This is my week 1 project for Exploratory Data Analysis.
+
+*Dataset:*
+
+* Electric power consumption from UC Irvine Machine Learning Repository https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip.
+
+*Data Handling:*
+
+* Subset data frame was created for observations between 2007-02-01 and 2007-02-02.
+* Create date/time variable from Date and Time columns
+
+##Files in this repo
+* Scripts for plots 1 - 4
+* PNG files of plots 1 - 4[^1]
+    
+[^1]: Plot 4 - Note that x-labels for plots 1 and 3 are added to make all 4 plots consistent
